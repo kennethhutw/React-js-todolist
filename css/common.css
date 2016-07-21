@@ -1,0 +1,72 @@
+#playground{
+	margin-top: 75px;
+}
+
+.debug{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.todo-filter {
+	margin-bottom: 25px;
+}
+
+.todo-filter>li>a{
+	padding: 8px 12px;
+	font-size: 12px;
+}
+
+#todoAdd {
+	margin-left: 40px;
+}
+
+.todoField{
+	padding-left: 5px;
+	font-size: 20px;
+	width:80%;
+	float:left;
+}
+
+#newTodoField{
+	margin: 20px;
+	width: 75%;
+}
+
+.newTodoCatalogField{
+	 margin-bottom: 5px;
+    margin-left: 15px;
+    padding-left: 5px;
+    font-size: 20px;
+    width: 70%;
+    float: left;
+}
+#todoSubmit{
+	margin-top: -5px;
+}
+
+.todoTask{
+	margin-bottom: 20px;
+}
+
+.todoName{
+	font-size: 20px;
+	border-bottom: 1px lightgray solid;
+	padding-bottom:5px;
+}
+
+.edit-in-place span {
+  cursor: pointer;
+}
+
+.edit-in-place input {
+  display: none;
+}
+
+.edit-in-place.active span {
+  display: none;
+}
+
+.edit-in-place.active input {
+  display: inline-block;
+}

@@ -1,6 +1,8 @@
 # React-js-todolist
 React-js-todolist
 
+![TodoListApp](todo.gif)
+
 The Github Repo of Multiple Sortable Todos using React-js.
 
 1. ##Tutorial##
